@@ -2,5 +2,5 @@ To Do List Putra
 - Minum Kopi
 - Belajar Git dan Github
 - AFK Fish It
-- Berolahraga
 - Info Loker
+- Push Rank
