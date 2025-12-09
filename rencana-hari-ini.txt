@@ -1,6 +1,7 @@
 RENCANA HARI INI
 
 - Push rank 3 bintang
- * Kalo tidak bisa 2 bintang
-- AFK Fish It
+  * Kalo tidak bisa 2 bintang
+  * Kalo bisa 3 bintang
 - Tidur tepat waktu
+  * Pukul 10
